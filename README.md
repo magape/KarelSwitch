@@ -4,7 +4,7 @@ The switch (8V, 3A) has been designed for robotic platform Karel.
 
 Credits
 =======
-The switch was designed by Cristina-Maria Agape
+The switch was designed by Cristina-Maria Agape.
 
 Licence
 =======
